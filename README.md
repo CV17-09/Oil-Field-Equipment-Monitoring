@@ -1,6 +1,6 @@
 # Oil Field Equipment Monitoring System
 Full-Stack
-05/16/2026 - 06/16/2026
+
 
 ## Overview
 A time monitoring and analytics system that processes oil-field equipment sensor data to detect anomalies and predict potential failures.
