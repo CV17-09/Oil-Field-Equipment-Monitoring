@@ -8,7 +8,7 @@ A time monitoring and analytics system that processes oil-field equipment sensor
 
 ## Tech Stack
 - Python (data ingestion, anomaly detection)
-- SQL (ETL, schema design, querying)
+- Azure SQL (ETL, schema design, querying)
 - Power BI (dashboarding and visualization)
 
 ## Features
