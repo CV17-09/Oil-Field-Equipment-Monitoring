@@ -85,8 +85,7 @@ If any threshold is exceeded, the reading is flagged as an anomaly.
 ---
 
 ## 📸 Dashboard Preview
-
-*(Add your screenshot here)*
+![Dashboard](powerbi/dashboard.png)
 
 ---
 
