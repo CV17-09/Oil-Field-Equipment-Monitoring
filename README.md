@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-Modern industrial equipment continuously generates thousands of sensor readings every day. Detecting unusual behavior early can significantly reduce maintenance costs, prevent unexpected failures, and improve operational efficiency.
+Under Review 08 Modern industrial equipment continuously generates thousands of sensor readings every day. Detecting unusual behavior early can significantly reduce maintenance costs, prevent unexpected failures, and improve operational efficiency.
 
 This project simulates a real-world industrial monitoring pipeline by processing equipment sensor data, identifying abnormal operating conditions, storing processed records in a SQL database, and presenting actionable insights through an interactive Power BI dashboard.
 
